@@ -31,9 +31,3 @@
 # Conclusion 
 
 - The analysis of women's clothing e-commerce sales provided valuable insights into product performance, customer behavior and revenue trends. Understanding the best-selling SKU items, average order value and peak revenue periods can inform strategic decision-making for maketing, inventory management and sales optimization.
-
-# Future Work
-
-- Perform segmentation analysis to identify customer segments with different purchasing behaviors.
-- Explore external factors (e.g seasonality, promotions) influencing sales trends.
-- Implement predictive modeling to forecast future sales and revenue.
